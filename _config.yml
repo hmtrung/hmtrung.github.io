@@ -39,9 +39,9 @@ navbar-links:
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "goclaptrinhchannel@gmail.com"
-  facebook: G%C3%B3c-L%E1%BA%ADp-Tr%C3%ACnh-110745333987239
+#  facebook: G%C3%B3c-L%E1%BA%ADp-Tr%C3%ACnh-110745333987239
   github: goclaptrinh
-  twitter: goclaptrinh
+#  twitter: goclaptrinh
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
@@ -49,7 +49,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-  youtube: channel/UCMctGvo9QIOPQpXDYRqNUYg/
+#  youtube: channel/UCMctGvo9QIOPQpXDYRqNUYg/
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
