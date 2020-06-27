@@ -29,12 +29,12 @@ $ venv\Scripts\activate
 4. Make sure file requirements.txt tồn tại trong thư mục gốc của project, tiến hành cài đặt các gói cần thiết:
 
 ~~~
-	$ pip install -r requirements.txt
+$ pip install -r requirements.txt
 ~~~
 
 5. Sau khi cài đặt xong, kiểm tra lại version của python, và các gói vừa cài đặt:
 
 ~~~
-	$ python --version
-	$ pip freeze
+$ python --version
+$ pip freeze
 ~~~
